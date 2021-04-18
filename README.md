@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @patroclus1
+- 👀 I’m interested in design and coding
+- 🌱 I’m currently learning js
+- 💞️ I’m not looking to collaborate on anything
+- 📫 You can reach me via Telegram @patr0clus
