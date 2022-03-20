@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patroclus1
-- 👀 I’m interested in design and coding
-- 🌱 I’m currently learning js
-- 💞️ I’m not looking to collaborate on anything
-- 📫 You can reach me via Telegram @patr0clus
+- 👀 I’m interested <b>Game Development</b>
+- 🌱 I’m currently applying for Junior <b>Unity</b> role
+- 💞️ I’m looking to <b>collaborate</b> on anything
+- 📫 You can reach me via <b>Telegram @VordGo</b>
