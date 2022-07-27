@@ -2,4 +2,4 @@
 - 👀 I’m interested <b>Game Development</b>
 - 🌱 I’m currently applying for <b>Unity Developer</b> role
 - 💞️ I’m looking to <b>collaborate</b> on anything
-- 📫 You can reach me via <b>Telegram @VordGo</b>
+- 📫 You can reach me via <b>Telegram @VordtGo</b>
